@@ -10,6 +10,9 @@ How to Compile and Run (execute) the program:
 * To compile, run the following command on your terminal:
 	javac EvaluateStrings.java
 	javac EvaluateIntegers.java
+* You can also run provided Jar files
+	java -jar EvaluateStrings
+	java -jar EvaluateIntegers
 * To execute, run the following command on your terminal:
 	java -Xmx128M -Xms16M EvaluateStrings
 	java -Xmx128M -Xms16M EvaluateIntegers
