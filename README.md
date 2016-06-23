@@ -4,23 +4,22 @@ Project name : Recruitment Assignment 1
 	* It is used to evaluate integer numbers.
 	
 How to Compile and Run (execute) the program:
-1. download the file into a directory you want then launch it.
-2. Change directory on your terminal to where you extracted the files.
-3. To compile, run the following command on your terminal:
+* download the file into a directory you want then launch it.
+* Change directory on your terminal to where you extracted the files.
+* To compile, run the following command on your terminal:
 	javac PlatoonTest.java
-4. To execute, run the following command on your terminal:
+* To execute, run the following command on your terminal:
 	java -Xmx128M -Xms16M PlatoonTest
 	
 Assumptions
-1. 	
-	1.0 You must be running java on your terminal, to verify,  run the following command on your terminal:
-		java -version
-		javac -version
-	1.1 This program evaluate integer numbers.
-	1.2 All inputs must be integers
-	1.3 All inputs are hardcoded manually, you can review the code and change it.
+	* You must be running java on your terminal, to verify,  run the following command on your terminal:
+		* java -version
+		* javac -version
+	* This program evaluate integer numbers.
+	* All inputs must be integers
+	* All inputs are hardcoded manually, you can review the code and change it.
 
-*****************EXAMPLE OF OUTPUT.**********
+EXAMPLE OF OUTPUT.
 
 run:
 Exercise 1: Integers
@@ -28,20 +27,17 @@ Exercise 1: Integers
 Test Case 1: Input = 0 , Output = true
 Test Case 2: Input = 3 , Output = false
 Test Case 6: Input = 6 , Output = true
-======================================
 
 ================Test Prime================
 Test Case 1: Input = 1 , Output = false
 Test Case 2: Input = 3 , Output = true
 Test Case 3: Input = 110 , Output = false
 Test Case 4: Input = 113 , Output = true
-======================================
 
 ================Test Palindrome========
 Test Case 1: Input = 10 , Output = false
 Test Case 2: Input = 101 , Output = true
 Test Case 3: Input = 123321 , Output = true
-======================================
 
 Exercise 2: Strings
 ================Test Reverse String================
@@ -51,7 +47,6 @@ Test Case 1: Input = 8BitPlatoon , Output = nootalPtiB8
 
 BUILD SUCCESSFUL (total time: 0 seconds)
 
-*********************************************         
 
 
 Coding
