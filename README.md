@@ -23,27 +23,27 @@ EXAMPLE OF OUTPUT.
 
 run:
 Exercise 1: Integers
-================Test Even================
+
+Even numbers
 Test Case 1: Input = 0 , Output = true
 Test Case 2: Input = 3 , Output = false
 Test Case 6: Input = 6 , Output = true
 
-================Test Prime================
+Prime numbers
 Test Case 1: Input = 1 , Output = false
 Test Case 2: Input = 3 , Output = true
 Test Case 3: Input = 110 , Output = false
 Test Case 4: Input = 113 , Output = true
 
-================Test Palindrome========
+Palindrome numbers
 Test Case 1: Input = 10 , Output = false
 Test Case 2: Input = 101 , Output = true
 Test Case 3: Input = 123321 , Output = true
 
 Exercise 2: Strings
-================Test Reverse String================
+Reverse String
 Test Case 1: Input = HelloWorld , Output = dlroWolleH
 Test Case 1: Input = 8BitPlatoon , Output = nootalPtiB8
-=============Thanks================
 
 BUILD SUCCESSFUL (total time: 0 seconds)
 
